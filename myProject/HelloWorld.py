@@ -1,1 +1,1 @@
-print("HelloWorld!")
+print(2^5)

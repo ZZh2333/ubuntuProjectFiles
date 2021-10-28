@@ -3,6 +3,7 @@
         "string_view": "cpp",
         "regex": "cpp",
         "string": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "array": "cpp"
     }
 }

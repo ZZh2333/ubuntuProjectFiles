@@ -1,4 +1,4 @@
-import tensorflow as tf;
+import tensorflow as tf
 
-# 启动jupyterlab：
-# nohup jupyter lab &
+# print(tf.cuda.isavailable())
+print(tf.__version__)
